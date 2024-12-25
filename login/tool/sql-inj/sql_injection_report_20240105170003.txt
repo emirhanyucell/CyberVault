@@ -1,0 +1,4 @@
+SQL Injection Test Raporu
+========================================
+
+Potansiyel SQL Injection Zafiyeti Tespit Edildi! (Payload: '-') - URL: http://testphp.vulnweb.com/listproducts.php?cat=1/cat?id='-'

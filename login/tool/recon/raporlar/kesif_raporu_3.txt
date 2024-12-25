@@ -1,0 +1,21 @@
+Keþif Raporu 3 - www.hurriyet.com.tr
+
+IP Adresi:
+190.2.150.114
+
+DNS Kayýtlarý:
+80.79.5.199
+80.79.4.140
+2.59.169.31
+190.2.150.114
+
+HTTP Baþlýklarý:
+HTTP baþlýklarý bulunamadý.
+
+SSL/TLS Bilgileri:
+{'subject': ((('commonName', '*.hurriyet.com.tr'),),), 'issuer': ((('countryName', 'BE'),), (('organizationName', 'GlobalSign nv-sa'),), (('commonName', 'AlphaSSL CA - SHA256 - G4'),)), 'version': 3, 'serialNumber': '62A2DAA3F531E7AF74E61CCA', 'notBefore': 'Jun 26 10:04:01 2023 GMT', 'notAfter': 'Jul 27 10:04:00 2024 GMT', 'subjectAltName': (('DNS', '*.hurriyet.com.tr'), ('DNS', 'hurriyet.com.tr')), 'OCSP': ('http://ocsp.globalsign.com/alphasslcasha256g4',), 'caIssuers': ('http://secure.globalsign.com/cacert/alphasslcasha256g4.crt',), 'crlDistributionPoints': ('http://crl.globalsign.com/alphasslcasha256g4.crl',)}
+WHOIS Bilgileri:
+WHOIS bilgileri bulunamadý.
+
+robots.txt Ýçeriði:
+robots.txt not found.

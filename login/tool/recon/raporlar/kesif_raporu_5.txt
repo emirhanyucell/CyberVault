@@ -1,0 +1,18 @@
+Keþif Raporu 5 - milliyet.com.tr
+
+IP Adresi:
+83.66.162.26
+
+DNS Kayýtlarý:
+83.66.162.26
+
+HTTP Baþlýklarý:
+HTTP baþlýklarý bulunamadý.
+
+SSL/TLS Bilgileri:
+{'subject': ((('commonName', '*.milliyet.com.tr'),),), 'issuer': ((('countryName', 'BE'),), (('organizationName', 'GlobalSign nv-sa'),), (('commonName', 'AlphaSSL CA - SHA256 - G4'),)), 'version': 3, 'serialNumber': '777355873CBBBAF4F54118E2', 'notBefore': 'Feb 27 08:53:32 2023 GMT', 'notAfter': 'Mar 30 08:53:31 2024 GMT', 'subjectAltName': (('DNS', '*.milliyet.com.tr'), ('DNS', 'milliyet.com.tr')), 'OCSP': ('http://ocsp.globalsign.com/alphasslcasha256g4',), 'caIssuers': ('http://secure.globalsign.com/cacert/alphasslcasha256g4.crt',), 'crlDistributionPoints': ('http://crl.globalsign.com/alphasslcasha256g4.crl',)}
+WHOIS Bilgileri:
+WHOIS bilgileri bulunamadý.
+
+robots.txt Ýçeriði:
+robots.txt not found.

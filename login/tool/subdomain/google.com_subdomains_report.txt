@@ -1,0 +1,16 @@
+Bulunan Subdomain'ler:
+http://ads.google.com
+http://actions.google.com
+http://accounts.google.com
+http://apigee.google.com
+http://apis.google.com
+http://area120.google.com
+http://arvr.google.com
+http://calendar.google.com
+http://classroom.google.com
+http://www.google.com
+http://chrome.google.com
+http://cloud.google.com
+http://code.google.com
+http://docs.google.com
+http://drive.google.com

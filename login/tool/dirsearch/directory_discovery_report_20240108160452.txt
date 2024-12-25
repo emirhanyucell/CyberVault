@@ -1,0 +1,18 @@
+Directory Discovery Report
+========================================
+
+[200] Found: https://www.milliyet.com.tr//.htm
+[200] Found: https://www.milliyet.com.tr//0
+[200] Found: https://www.milliyet.com.tr//08
+[200] Found: https://www.milliyet.com.tr//1
+[200] Found: https://www.milliyet.com.tr//10
+[200] Found: https://www.milliyet.com.tr//100
+[200] Found: https://www.milliyet.com.tr//1000
+[200] Found: https://www.milliyet.com.tr//aa
+[200] Found: https://www.milliyet.com.tr//ab
+[200] Found: https://www.milliyet.com.tr//access
+[200] Found: https://www.milliyet.com.tr//add
+[200] Found: https://www.milliyet.com.tr//adm
+[200] Found: https://www.milliyet.com.tr//admin
+[200] Found: https://www.milliyet.com.tr//Admin
+[200] Found: https://www.milliyet.com.tr//ADMIN

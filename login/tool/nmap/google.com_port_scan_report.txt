@@ -1,0 +1,5 @@
+Domain: google.com
+IP Adresi: 216.239.38.120
+
+Açýk Portlar:
+80
