@@ -12,5 +12,5 @@ Python ile geliştirdiğim araçlar, web güvenlik testlerini gerçekleştirmek 
 Bu araçlar, siber güvenlik açıklarını tespit etme ve analiz etme konusunda kapsamlı bir çözüm sunar.
 
 ## Kurulum 
-1. Projeyi kendi bilgisayarınıza klonlayın: `git clone https://github.com/mertdurum06/sarsilmaz_waf.git`
+1. Projeyi kendi bilgisayarınıza klonlayın: `git clone https://github.com/emirhanyucell/CyberVault.git`
 2. Tool kullanımı için port başlatımı : `.\run.bat`
