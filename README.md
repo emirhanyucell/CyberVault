@@ -10,3 +10,7 @@ Python ile geliştirdiğim araçlar, web güvenlik testlerini gerçekleştirmek 
 - ** Haberler ve Notlar Bölümü: ** Kullanıcıların siber güvenlik dünyasındaki güncel gelişmeleri takip edebilmesi için haberler ve yapılan testler için kayıt alınabilecek notlar sunar.
 
 Bu araçlar, siber güvenlik açıklarını tespit etme ve analiz etme konusunda kapsamlı bir çözüm sunar.
+
+## Kurulum 
+1. Projeyi kendi bilgisayarınıza klonlayın: `git clone https://github.com/mertdurum06/sarsilmaz_waf.git`
+2. Tool kullanımı için port başlatımı : `.\run.bat`
